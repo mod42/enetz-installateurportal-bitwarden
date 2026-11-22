@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         e-netz Installateurportal – Bitwarden-Fix
-// @namespace    https://github.com/mod42/enetz-installateurportal-bitwarden
-// @homepageURL  https://github.com/mod42/enetz-installateurportal-bitwarden
-// @downloadURL  https://raw.githubusercontent.com/mod42/enetz-installateurportal-bitwarden/main/enetz-installateurportal-bitwarden.user.js
-// @updateURL    https://raw.githubusercontent.com/mod42/enetz-installateurportal-bitwarden/main/enetz-installateurportal-bitwarden.user.js
-// @version      1.0
+// @namespace    https://github.com/mod42/installateur-userscripts
+// @homepageURL  https://github.com/mod42/installateur-userscripts
+// @downloadURL  https://raw.githubusercontent.com/mod42/installateur-userscripts/main/enetz-installateurportal-bitwarden.user.js
+// @updateURL    https://raw.githubusercontent.com/mod42/installateur-userscripts/main/enetz-installateurportal-bitwarden.user.js
+// @version      1.1
 // @description  Löst das Frameset des e-netz Installateurportals auf und setzt autocomplete-Attribute, damit Bitwarden das Login erkennt.
 // @match        https://www.e-netz-suedhessen.de/installateurportal/*
 // @match        https://e-netz-suedhessen.de/installateurportal/*
